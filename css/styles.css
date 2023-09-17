@@ -645,6 +645,11 @@ color:#000;
 .row .area2 {
 	width: 35%;
 }
+.topic-img img {
+	max-width: 400px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
 /* Services
     -------------------------------------------------*/
 .grid .text-content {
