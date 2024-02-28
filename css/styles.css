@@ -594,7 +594,6 @@ line-height: 50px;
 }
 img, video, iframe, embed, object {
 	max-width: 100%;
-	height: auto;
 }
 /* Features
     -------------------------------------------------*/
